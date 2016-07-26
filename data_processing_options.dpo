@@ -1,0 +1,11 @@
+APD_correction :yes
+Droplet_Height_filtering :no
+Droplet_Time_filtering :no
+count_peaks :no
+Burst_analysis :yes
+droplet_data_synchronized :yes
+data_channels :1  2
+Droplet_counting_threshold :Manual
+Min_gap_betn_droplets :0
+Droplet_reference_channel :2
+Reference_drop_size_in_msec :0
